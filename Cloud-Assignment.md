@@ -1,5 +1,5 @@
 # Cloud-Computing-WK6
-Cloud Computing: Weekly Assignment Submission .
+Cloud Computing: Weekly Assignment Submission.
 
 ## 1. Created a Virtual Network named Lab-VNet-1 inside Resource Group RG-Network-Lab with address space 10.0.0.0/16. Two subnets were configured: Frontend-Subnet (10.0.1.0/24) for frontend resources and Backend-Subnet (10.0.2.0/24) for backend resources.
 
